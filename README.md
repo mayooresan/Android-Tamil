@@ -1,10 +1,12 @@
+/* ============= */
 Android-Tamil
-=============
+/* ============= */
 
 Demo App on "How to develop Tami Android Apps?"
 
 Final outcome
-https://github.com/mayooresan/Android-Tamil/blob/master/final_output.png
+!https://github.com/mayooresan/Android-Tamil/blob/master/final_output.png(Screenshot)!
+
 
 You must check out 
 https://github.com/mayooresan/Android-Tamil/blob/master/src/com/mayuonline/tamildemo/TamilDemoActivity.java
@@ -16,4 +18,4 @@ Source code is available as open source but I don't own the rights of the Bamini
 
 Have fun guys. Android Rocks :)
 
-=================
+/* ============= */
