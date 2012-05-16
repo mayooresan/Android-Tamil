@@ -7,7 +7,7 @@ Android-Tamil
 Demo App on "How to develop Tami Android Apps?"
 
 Final outcome
-![Android Image](mayooresan/Android-Tamil/blob/master/final_output.png)
+![Android Image](https://github.com/mayooresan/Android-Tamil/raw/master/final_output.png)
 
 
 
