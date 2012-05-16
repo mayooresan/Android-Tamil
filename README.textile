@@ -6,16 +6,16 @@ Android-Tamil
 
 Demo App on "How to develop Tami Android Apps?"
 
-Final outcome
-![Android Image](https://github.com/mayooresan/Android-Tamil/raw/master/final_output.png)
+* Final outcome
+!https://github.com/mayooresan/Android-Tamil/raw/master/final_output.png(Screenshot)!
 
 
 
-*You must check out 
+* You must check out 
 
-https://github.com/mayooresan/Android-Tamil/blob/master/src/com/mayuonline/tamildemo/TamilDemoActivity.java
+ https://github.com/mayooresan/Android-Tamil/blob/master/src/com/mayuonline/tamildemo/TamilDemoActivity.java
 
-*The font converter util located here (Unicode to Bamini)
+* The font converter util located here (Unicode to Bamini)
 
 https://github.com/mayooresan/Android-Tamil/blob/master/src/com/mayuonline/tamildemo/TamilFontUtil.java
 
