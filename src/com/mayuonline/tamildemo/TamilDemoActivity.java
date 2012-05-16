@@ -20,11 +20,13 @@ public class TamilDemoActivity extends Activity {
         TextView tamilTextView = (TextView)findViewById(R.id.textView1);
         tamilTextView.setTypeface(tf);
         
-        //Convert Tamil font encording using the utility.
+        //Tamil Unicode text goes here.
         String tamilString = "வணக்கம் அன்ரொயிட்";
         
         //creating intance of TamilFotnUtil Class
         TamilFontUtil tfUtil = new TamilFontUtil();
+        
+        //Convert Tamil font encording using the utility.
         String tamilStringEncoded =  tfUtil.convertTamilString(tamilString);
         
         //Setting the text in the TextView
