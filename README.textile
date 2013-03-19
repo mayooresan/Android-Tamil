@@ -1,8 +1,15 @@
-/* ============= */
+Depreciated
+===========
+
+New library
+-----------
+Support to this standalone app is depreciated. Going forward use the [library](https://github.com/mayooresan/Android-TamilUtil) which supports both Bamini and TSCII encoding
+
+[New Library Link](https://github.com/mayooresan/Android-TamilUtil)
 
 Android-Tamil
+=============
 
-/* ============= */
 
 Demo App on "How to develop Tami Android Apps?"
 
@@ -25,4 +32,4 @@ https://github.com/mayooresan/Android-Tamil/blob/master/src/com/mayuonline/tamil
 *Have fun guys. Android Rocks :)
 */
 
-/* ============= */
+
